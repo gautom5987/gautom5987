@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Gautoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautom5987&show_icons=true)](https://github.com/gautom5987/github-readme-stats)
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gautom5987&show_icons=true" />
 
 
