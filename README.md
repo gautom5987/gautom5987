@@ -22,8 +22,9 @@ I am Gautom Agarwal,
   </a>
 </p>
 
+My Codeforces profile - 
 <p align="center">
-  <a href="https://codeforces.com/gautom5987/" target="_blank">
+  <a href="https://codeforces.com/profile/gautom5987/" target="_blank">
     <img src="https://codeforces-stats-api.herokuapp.com/stats?username=gautom5987&theme=1" />
   </a>
 </p>
