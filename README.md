@@ -30,7 +30,7 @@ My Codeforces profile -
 
 My Leetcode profile - 
 <p align="center">
-  <a href="https://codeforces.com/profile/gautom5987/" target="_blank">
+  <a href="https://leetcode.com/gautom5987/" target="_blank">
     <img src="https://leetcode.card.workers.dev/gautom5987?theme=default&font=default&extension=null" />
   </a>
 </p>
