@@ -15,9 +15,11 @@ I am Gautom Agarwal,
 - 😄 Pronouns: ...
 -->
 
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gautom5987&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
 </p>
+-->
 
 <!--
 My Codeforces profile - 
