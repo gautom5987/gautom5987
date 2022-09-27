@@ -5,9 +5,11 @@
 <p align="center">
   <a href="https://github.com/gautom5987/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=gautom5987&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
-    [![Gautom's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautom5987)](https://github.com/gautom5987/github-readme-stats)
   </a>
 </p>
+
+    [![Gautom's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautom5987)](https://github.com/gautom5987/github-readme-stats)
+
 
 I am Gautom Agarwal,
 
