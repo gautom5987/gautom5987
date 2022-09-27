@@ -11,7 +11,7 @@
 I am Gautom Agarwal,
 
 - 🔭 I’m currently studying at MNNIT Allahabad.
-- 🌱 I’m currently working on improving my problem solving skills.
+- 🌱 I’m currently learning MERN stack.
 - ⚡ Fun fact: I love animals ♥️
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +21,7 @@ I am Gautom Agarwal,
 - 😄 Pronouns: ...
 -->
 
+<!--
 My Codeforces profile - 
 <p align="center">
   <a href="https://codeforces.com/profile/gautom5987/" target="_blank">
@@ -34,6 +35,7 @@ My Leetcode profile -
     <img src="https://leetcode.card.workers.dev/gautom5987?theme=default&font=default&extension=null" />
   </a>
 </p>
+-->
 
 <!-- ![](https://komarev.com/ghpvc/?username=gautom5987) -->
 
