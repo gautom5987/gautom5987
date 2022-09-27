@@ -2,10 +2,6 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gautom5987&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
-</p>
-
 I am Gautom Agarwal,
 
 - 🔭 I’m currently studying at MNNIT Allahabad.
@@ -18,6 +14,10 @@ I am Gautom Agarwal,
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gautom5987&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
+</p>
 
 <!--
 My Codeforces profile - 
