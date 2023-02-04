@@ -5,7 +5,7 @@
 I am Gautom Agarwal,
 
 - 🔭 I’m currently studying at MNNIT Allahabad.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning Machine Learning.
 - ⚡ Fun fact: I love animals ♥️
 <!--
 - 👯 I’m looking to collaborate on ...
