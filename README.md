@@ -14,6 +14,7 @@ I am Gautom Agarwal,
 
 <div align="center">
 
-<img src="assets/ie.jpg">
+<img src="assets/notepad.gif" height="43">
+<img src="assets/ie.jpg" height="43">
 
 </div>
