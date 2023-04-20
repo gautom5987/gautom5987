@@ -4,11 +4,13 @@
 
 <p align="center"><img src="assets/tech.png" height="300"/></p>
 
-I am Gautom Agarwal,
-
-- I’m currently studying at MNNIT Allahabad <img src="assets/glasses.png" height="18">
-- I’m currently learning Machine Learning <img src="assets/heart.png" height="18">
+<p style="font-family:courier, courier new, serif;font-weight:bold;">
+I am Gautom Agarwal,<br>
+- I’m currently studying at MNNIT Allahabad <img src="assets/glasses.png" height="18"><br>
+- I’m currently learning Machine Learning <img src="assets/heart.png" height="18"><br>
 - Fun fact: I love animals <img src="assets/cat.png" height="20">
+
+</p>
 
 <br>
 
