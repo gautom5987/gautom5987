@@ -1,4 +1,4 @@
-<img src="assets/hello.webp" height="20">&nbsp;&nbsp;&nbsp;<img src="assets/mario.png" height="28">
+<img src="assets/hello.png" height="20">&nbsp;&nbsp;&nbsp;<img src="assets/mario.png" height="28">
 
 <!-- <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p> -->
 
