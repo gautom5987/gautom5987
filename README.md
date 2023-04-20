@@ -1,4 +1,4 @@
-### Hi there <img src="assets/mario.png" height="18">
+### Hi there <img src="assets/mario.png" height="22">
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
