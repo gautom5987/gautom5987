@@ -7,7 +7,7 @@
 I am Gautom Agarwal,
 
 - I’m currently studying at MNNIT Allahabad <img src="assets/glasses.png" height="18">
-- I’m currently learning Machine Learning <img src="assets/heart.png">
+- I’m currently learning Machine Learning <img src="assets/heart.png" height="18">
 - Fun fact: I love animals <img src="assets/cat.png" height="20">
 
 <br>
