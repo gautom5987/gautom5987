@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p> -->
 
-<p align="center"><img src="assets/tech.png" height="250"/></p>
+<p align="center"><img src="assets/tech.png" height="300"/></p>
 
 I am Gautom Agarwal,
 
